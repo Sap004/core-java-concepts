@@ -1,4 +1,4 @@
-package src;
+package src.MultiThreading;
 
 public class MultiThreadingExtendingThreadClass extends Thread {
 
